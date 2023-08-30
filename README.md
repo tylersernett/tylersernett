@@ -1,3 +1,8 @@
+# About Me
+Welcome! I'm a full stack developer currently seeking employment. 
+
+[Portfolio](https://tylersernett.github.io/) | [LinkedIn](https://www.linkedin.com/in/tylersernett/)
+
 ## Languages
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
