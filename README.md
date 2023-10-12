@@ -1,5 +1,6 @@
 # About Me
-Welcome! I'm a full stack developer currently seeking employment. 
+Welcome! I'm a software enginner specializing in full stack web development.
+<br/>My special interests include: Education, Music, Design, Alternative Transportation
 
 [Portfolio](https://tylersernett.github.io/) | [LinkedIn](https://www.linkedin.com/in/tylersernett/)
 
